@@ -1,8 +1,8 @@
-# TechSphere Blog Platform
+# Blog
 
 ## Overview
 
-The TechSphere Blog Platform is a comprehensive web application designed for tech enthusiasts, developers, and industry experts to share insights, tutorials, and news. Built with Java, Spring Boot, Hibernate, Maven, and Thymeleaf, it features a secure and intuitive platform for blogging. The application includes authentication/authorization, pagination, and CRUD operations for blog posts, all backed by the lightweight H2 Database.
+The Blog Platform is a comprehensive web application designed for tech enthusiasts, developers, and industry experts to share insights, tutorials, and news. Built with Java, Spring Boot, Hibernate, Maven, and Thymeleaf, it features a secure and intuitive platform for blogging. The application includes authentication/authorization, pagination, and CRUD operations for blog posts, all backed by the lightweight H2 Database.
 
 ## Key Features
 
