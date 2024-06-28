@@ -36,8 +36,3 @@ The TechSphere Blog Platform is a comprehensive web application designed for tec
 2. Find *SpringBlogApplication.java* file
 3. Right click -> Run Java
 
-### License
-
-MIT
-
-This README template provides a concise overview of your blog application, detailing its key features, technical stack, and instructions for getting started, usage, contributing, and licensing. Adjust the repository URL, project directory, and any specific commands or URLs as necessary to fit your project's details.
